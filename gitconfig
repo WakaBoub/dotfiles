@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lidwine.diot@gmail.com
+	name = lidwine diot
